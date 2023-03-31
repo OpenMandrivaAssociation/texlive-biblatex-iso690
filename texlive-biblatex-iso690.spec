@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-iso690
 Version:	62866
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for ISO 690 standard
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-iso690
