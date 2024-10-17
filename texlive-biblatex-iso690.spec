@@ -3,7 +3,7 @@ Version:	62866
 Release:	2
 Summary:	BibLaTeX style for ISO 690 standard
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-iso690
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-iso690
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-iso690.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-iso690.doc.r%{version}.tar.xz
